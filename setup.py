@@ -28,5 +28,6 @@ distutils.core.setup(
 	          'arago.common.stopwatch',
 	          'arago.common.lists',
 	          'arago.common.gssapi',
+	          'arago.common.processor',
 	]
 )
